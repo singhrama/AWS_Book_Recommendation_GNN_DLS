@@ -1,4 +1,3 @@
-
 Project Title : GRAPH NEURAL NETWORK APPLICATION: BOOK RECOMMENDATION SYSTEM
 
 Faculty : Prof. Henry Choi (Indiana University)
